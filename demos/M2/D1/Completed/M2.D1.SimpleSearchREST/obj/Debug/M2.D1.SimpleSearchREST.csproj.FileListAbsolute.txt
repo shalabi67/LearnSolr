@@ -1,0 +1,12 @@
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D1\Before\M2.D1.SimpleSearchREST\bin\Debug\M2.D1.SimpleSearch.exe.config
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D1\Before\M2.D1.SimpleSearchREST\bin\Debug\M2.D1.SimpleSearchREST.exe.config
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D1\Completed\M2.D1.SimpleSearchREST\bin\Debug\M2.D1.SimpleSearchREST.exe.config
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D1\Completed\M2.D1.SimpleSearchREST\bin\Debug\M2.D1.SimpleSearchREST.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D1\Completed\M2.D1.SimpleSearchREST\bin\Debug\M2.D1.SimpleSearchREST.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D1\Completed\M2.D1.SimpleSearchREST\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D1\Completed\M2.D1.SimpleSearchREST\bin\Debug\RestSharp.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D1\Completed\M2.D1.SimpleSearchREST\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D1\Completed\M2.D1.SimpleSearchREST\bin\Debug\RestSharp.xml
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D1\Completed\M2.D1.SimpleSearchREST\obj\Debug\M2.D1.SimpleSearchREST.csprojResolveAssemblyReference.cache
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D1\Completed\M2.D1.SimpleSearchREST\obj\Debug\M2.D1.SimpleSearchREST.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D1\Completed\M2.D1.SimpleSearchREST\obj\Debug\M2.D1.SimpleSearchREST.pdb
